@@ -1,0 +1,1 @@
+Implementacja i analiza działania algorytmu najszybszego spadku w ramach przedmiotu "Wstęp do Sztucznej Inteligencji" (studia inżynierskie kierunku Informatyka na wydziale Elektroniki i Technik Informacyjnych na Politechnice Warszawskiej).
